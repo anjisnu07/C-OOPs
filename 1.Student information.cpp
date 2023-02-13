@@ -1,5 +1,5 @@
-   **Q.no1**==>**Write a program to show student information using class object**
-**This text will be bold.**
+   # Q.no1==>Write a program to show student information using class object.
+
 #include<iostream>
 
 using namespace std;

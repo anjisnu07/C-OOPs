@@ -1,4 +1,4 @@
-  // Q.no1==> Write a program to show student information using class object.
+// Q.no1==> Write a program to show student information using class object.
 
 #include<iostream>
 
@@ -36,24 +36,12 @@ int main(){
 	cin >> no;
 	
 	for(int i=0;i<no;i++){
-			cout << "Details of " << i+1 << "th student.\n";
+			cout << "\nDetails of " << i+1 << "th student.\n";
 		object.getname();
 		object.getmarks();
-	num=	object.getid();
-		sum=sum+num;
+		object.getid();
 		
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
 
 

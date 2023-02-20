@@ -1,4 +1,4 @@
-//3.swap Two numbers a output should be printed only in main function
+//3.swap Two numbers and output should be printed only in main function.
 
 
 #include<iostream>

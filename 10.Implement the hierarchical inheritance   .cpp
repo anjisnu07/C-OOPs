@@ -1,11 +1,11 @@
 //Implement the hierarchical inheritance                             
-//                                   Account
-//									/	 |	\						
+//                                    Account
+//				/	 |	\						
 //                   Savings account     |   Current account
 //                                  Fixed deposit
-//									/    |		\
+//				/        |	 \
 //                          Short term   |      Long term
-//								   medium term
+//				   medium term
 #include<iostream>
 using namespace std;
 
